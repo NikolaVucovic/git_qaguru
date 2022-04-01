@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Изучаем гит вместе с QA.GURU!");
         System.out.println("Ох, как это не прсто");
         System.out.println("Но двигаемся дальше");
+        System.out.println("Error");
     }
 }
